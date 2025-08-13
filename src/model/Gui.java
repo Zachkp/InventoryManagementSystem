@@ -7,9 +7,6 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-//The javadocs are in the folder titled C482 Project Javadoc
-//If needed I can move them to be in the same folder as the project itself
-
 /**
  *
  *  This class creates an app that allows the user to add, modify, and remove parts and products from table views
